@@ -1,5 +1,16 @@
 ## @romance_143_bot
 
+## Render info
+
+Login mail- 
+``` 
+vxyrlrfgb@valanides.com
+```
+Login pass- 
+```
+nd7JytL8UEVQebV
+```
+
 ## Vps Cmd -----------
 
 ```
