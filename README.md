@@ -4,11 +4,11 @@
 
 Login mail- 
 ``` 
-vxyrlrfgb@valanides.com
+mimjateqo@bugfoo.com
 ```
 Login pass- 
 ```
-nd7JytL8UEVQebV
+mimjateqo
 ```
 
 ## Vps Cmd -----------
