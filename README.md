@@ -1,14 +1,14 @@
-## @Sathish_films_bot
+## @Tentkotta_bot
 
 ## Render info
 
 Login mail- 
 ``` 
-mimjateqo@bugfoo.com
+pkexfvcts@bugfoo.com
 ```
 Login pass- 
 ```
-mimjateqo
+pkexfvcts
 ```
 
 ## Vps Cmd -----------
@@ -27,8 +27,8 @@ python main.py
 ```
 ### Admin info and pay
 
-tm- Sathish Sk
+tm- @Smlovers_143
 
-last pay- none
+next pay- 07-03-23
 
-fees- free
+fees- 150
