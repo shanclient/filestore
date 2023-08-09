@@ -11,6 +11,15 @@ Login pass-
 llyrzydjrgul
 ```
 
+
+##
+### Installation
+#### Deploy on Heroku
+**BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shanclient/filestore)
+
+
+
 ## Vps Cmd -----------
 
 ```
@@ -24,11 +33,4 @@ pip install -r requirements.txt
 ```
 ```
 python main.py
-```
-### Admin info and pay
-
-tm- @Smlovers_143
-
-next pay- 07-03-23
-
-fees- 150
+``
