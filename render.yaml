@@ -26,7 +26,7 @@ services:
         sync: false 
       - key: START_MESSAGE
         sync: false
-      - key: LOG_CHANNEL
+      - key: FORCE_SUB_CHANNEL
         sync: false    
       - key: FORCE_SUB_MESSAGE
         sync: false    
