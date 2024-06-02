@@ -88,7 +88,7 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🎬 Main Channel", url="https://t.me/+IL4Y_AUfQ8xiNTE1")
+                    InlineKeyboardButton("🎬 Main Channel", url="https://t.me/+QKe_u9PmObZmYzc9")
                 ],
                 [
                     InlineKeyboardButton("😊 About Me", callback_data = "about"),
