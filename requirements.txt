@@ -1,5 +1,5 @@
 # --- For-Bot-Working --------- #
-git+https://github.com/KurimuzonAkuma/pyrogram.git
+pyrofork
 TgCrypto
 Pyromod
 # --- For-Database ------------ #
