@@ -190,7 +190,9 @@ async def send_text(client: Bot, message: Message):
             except:
                 unsuccessful += 1
                 pass
-            total += 1
+            finally:
+                total += 1
+                await asyncio.sleep(0.1)
         
         status = f"""<b><u>Broadcast Completed</u>
 
