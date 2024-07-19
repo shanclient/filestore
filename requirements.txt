@@ -1,9 +1,15 @@
 # --- For-Bot-Working --------- #
 pyrogram
 TgCrypto
-pyromod==1.5
+pyromod
 # --- For-Database ------------ #
 pymongo
+motor
+umongo
 dnspython
+marshmallow
 # --- For-Web-Response ------- #
 aiohttp
+requests
+asyncio
+requests
